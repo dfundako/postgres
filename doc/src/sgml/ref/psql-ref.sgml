@@ -723,7 +723,7 @@ $ <userinput>psql postgresql://dbmaster:5433/mydb?sslmode=require</userinput>
 <programlisting>
 $ <userinput>psql testdb</userinput>
 psql (&version;)
-Type "help" for help.
+Type "help" for help because this is my custom version.
 
 testdb=&gt;
 </programlisting>

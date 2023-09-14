@@ -328,7 +328,7 @@ createdb: error: database creation failed: ERROR:  permission denied to create d
     message:
 <screen>
 psql (&version;)
-Type "help" for help.
+Type "help" for help because this is my custom version.
 
 mydb=&gt;
 </screen>
